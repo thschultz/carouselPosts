@@ -1,0 +1,16 @@
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.carousel-control-next {
+    background: red !important;
+    margin-left: 50px !important;
+    width: 30px !important;
+}
+
+.carousel-control-prev {
+    background: red !important;
+    margin-right: 50px !important;
+    width: 30px !important;
+}
