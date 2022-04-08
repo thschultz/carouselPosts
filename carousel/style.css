@@ -4,13 +4,13 @@
 }
 
 .carousel-control-next {
-    background: red !important;
+    background: gray !important;
     margin-left: 50px !important;
     width: 30px !important;
 }
 
 .carousel-control-prev {
-    background: red !important;
+    background: gray !important;
     margin-right: 50px !important;
     width: 30px !important;
 }
